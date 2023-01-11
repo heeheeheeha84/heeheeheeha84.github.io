@@ -275,7 +275,7 @@ ul li {
     height: calc(100% - 100px);
     text-align: center;
     box-sizing: border-box;
-    padding: 10% 20%;
+    padding: 10% 5%;
     opacity: 0;
     transition: 0.8s;
     font-family: "Montserrat", sans-serif;
@@ -294,7 +294,7 @@ ul li {
     height: calc(100% - 100px);
     text-align: center;
     box-sizing: border-box;
-    padding: 10% 30%;
+    padding: 10% 20%;
     opacity: 0;
     transition: 0.8s;
     font-family: "Montserrat", sans-serif;
